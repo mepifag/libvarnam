@@ -1,0 +1,29 @@
+[  4%] Building C object deps/CMakeFiles/deps.dir/sqlite3.c.o
+[  9%] Building C object deps/CMakeFiles/deps.dir/snprintf.c.o
+[ 13%] Building C object deps/CMakeFiles/deps.dir/parson.c.o
+[ 18%] Building C object deps/CMakeFiles/deps.dir/strdup.c.o
+[ 18%] Built target deps
+Scanning dependencies of target varnam_core
+[ 22%] Building C object CMakeFiles/varnam_core.dir/util.c.o
+[ 27%] Building C object CMakeFiles/varnam_core.dir/lru_cache.c.o
+[ 31%] Building C object CMakeFiles/varnam_core.dir/vutf8.c.o
+[ 36%] Building C object CMakeFiles/varnam_core.dir/trie.c.o
+[ 40%] Building C object CMakeFiles/varnam_core.dir/strbuf.c.o
+[ 45%] Building C object CMakeFiles/varnam_core.dir/transliterate.c.o
+[ 50%] Building C object CMakeFiles/varnam_core.dir/symbol-table.c.o
+[ 54%] Building C object CMakeFiles/varnam_core.dir/words-table.c.o
+[ 59%] Building C object CMakeFiles/varnam_core.dir/varray.c.o
+[ 63%] Building C object CMakeFiles/varnam_core.dir/token.c.o
+[ 68%] Building C object CMakeFiles/varnam_core.dir/vword.c.o
+[ 72%] Building C object CMakeFiles/varnam_core.dir/learn.c.o
+[ 77%] Building C object CMakeFiles/varnam_core.dir/rendering.c.o
+[ 81%] Building C object CMakeFiles/varnam_core.dir/lang_detection.c.o
+[ 86%] Building C object CMakeFiles/varnam_core.dir/renderer/ml_unicode.c.o
+[ 90%] Building C object CMakeFiles/varnam_core.dir/varnam.c.o
+[ 90%] Built target varnam_core
+Scanning dependencies of target varnam
+[ 95%] Linking C shared library libvarnam.so
+[ 95%] Built target varnam
+Scanning dependencies of target varnamstatic
+[100%] Linking C static library libvarnamstatic.a
+[100%] Built target varnamstatic

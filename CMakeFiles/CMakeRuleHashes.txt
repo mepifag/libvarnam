@@ -1,0 +1,18 @@
+# Hashes of file build rules.
+e80bb4c6cc8ef25eb750324544bb781e CMakeFiles/as.vst
+869561d02157093807005679efb3a6ff CMakeFiles/bn.vst
+ca406bc66fb0bdd2dfeaa3111e93ef6b CMakeFiles/distro
+c80cac8032dcd7f87b8325dd14261acc CMakeFiles/gu.vst
+02e2cfe70ae0c8137114a775798ae5f8 CMakeFiles/hi.vst
+360c47c24f14ee1877556e7668e3ca36 CMakeFiles/kn.vst
+993db0c2c897b24e868c4a61b6c6eb1a CMakeFiles/ml-inscript.vst
+818c7ba36406888f0e90548fd9ab34d5 CMakeFiles/ml.vst
+3c0acbb7fec0f1c06a2bfb9c0fd21d07 CMakeFiles/mr.vst
+aa863f1c8103b881d697c5bf16f1dada CMakeFiles/ne.vst
+6945b997022d05c1dbe74c084f1b9f2d CMakeFiles/or.vst
+e8510786131da5b6d7c11792b39a688d CMakeFiles/pa.vst
+b371d3d2d513fd7455583b09f659aaa2 CMakeFiles/sa.vst
+fc1774acb304660c2839811eef7da409 CMakeFiles/ta.vst
+29df5701e42083fcbbd22a8844cc94e0 CMakeFiles/te.vst
+bb285e87d530bca22a2613ac5eebc636 CMakeFiles/test
+eb6fff615e714294466b5a2b87bbb592 CMakeFiles/uninstall
